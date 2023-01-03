@@ -1,0 +1,5 @@
+16.555
+computation
+Functions/per million executions
+Azure
+https://azure.microsoft.com/en-in/pricing/

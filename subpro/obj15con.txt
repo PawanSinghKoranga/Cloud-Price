@@ -1,0 +1,5 @@
+0.082
+storage
+S3 Glacier Deep Archive For long term data archiving that is accessed once or twice in a year and can be  ,per GB (Storage / Month)
+AWS
+https://www.apptio.com/blog/essential-guide-aws-s3-pricing/

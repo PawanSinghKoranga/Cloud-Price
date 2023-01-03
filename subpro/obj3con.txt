@@ -1,0 +1,5 @@
+0.79
+storage
+NEARLINE STORAGE(per GB per month))
+Google
+https://cloud.google.com/storage/

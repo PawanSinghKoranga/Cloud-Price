@@ -1,0 +1,26 @@
+import sys
+import subprocess
+
+
+subprocess.Popen(['python', './subpro/subpro1.py'])
+subprocess.Popen(['python','./subpro/subpro2.py'])
+subprocess.Popen(['python','./subpro/subpro3.py'])
+subprocess.Popen(['python','./subpro/subpro4.py'])
+subprocess.Popen(['python','./subpro/subpro5.py'])
+subprocess.Popen(['python','./subpro/subpro6.py'])
+subprocess.Popen(['python','./subpro/subpro7.py'])
+subprocess.Popen(['python','./subpro/subpro8.py'])
+subprocess.Popen(['python','./subpro/subpro9.py'])
+subprocess.Popen(['python','./subpro/subpro10.py'])
+subprocess.Popen(['python','./subpro/subpro11.py'])
+subprocess.Popen(['python','./subpro/subpro12.py'])
+subprocess.Popen(['python','./subpro/subpro13.py'])
+subprocess.Popen(['python','./subpro/subpro14.py'])
+subprocess.Popen(['python','./subpro/subpro15.py'])
+subprocess.Popen(['python','./subpro/subpro16.py'])
+subprocess.Popen(['python','./subpro/subpro17.py'])
+subprocess.Popen(['python','./subpro/subpro18.py'])
+subprocess.Popen(['python','./subpro/subpro19.py'])
+subprocess.Popen(['python','./subpro/subpro20.py'])
+subprocess.Popen(['python','./subpro/subpro21.py'])
+subprocess.Popen(['python','./Frontpage2.py'])

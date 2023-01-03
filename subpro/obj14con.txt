@@ -1,0 +1,5 @@
+0.298
+storage
+S3 Glacier Flexible Retrieval (Formerly S3 Glacier) For long-term backups and archives with retrieval opt ,per GB (Storage / Month)
+AWS
+https://www.apptio.com/blog/essential-guide-aws-s3-pricing/

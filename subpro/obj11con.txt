@@ -1,0 +1,5 @@
+1.035
+storage
+S3 Standard – Infrequent Access – For long-lived but infrequently accessed data that needs millisecond acce ,per GB (Storage / Month)
+AWS
+https://www.apptio.com/blog/essential-guide-aws-s3-pricing/

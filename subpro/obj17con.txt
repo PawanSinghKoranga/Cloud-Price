@@ -1,0 +1,5 @@
+0.095
+storage
+ARCHIVE STORAGE per GB per Month
+Google
+https://cloud.google.com/storage/

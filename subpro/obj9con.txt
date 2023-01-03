@@ -1,0 +1,5 @@
+0.207
+storage
+S3 Intelligent-Tiering – Automatic cost savings for data with unknown or changing access patterns Monitoring and Automation, All Storage / Month (Objects > 128 KB),(per 1,000 objects)
+AWS
+https://www.apptio.com/blog/essential-guide-aws-s3-pricing/

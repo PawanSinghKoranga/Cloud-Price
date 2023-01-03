@@ -1,0 +1,5 @@
+0.316
+storage
+COLDLINE STORAGE ,per GB per Month
+Google
+https://cloud.google.com/storage/

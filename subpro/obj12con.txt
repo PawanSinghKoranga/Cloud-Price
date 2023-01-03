@@ -1,0 +1,5 @@
+0.828
+storage
+S3 One Zone – Infrequent Access – For re-creatable infrequently accessed data that needs millisecond access ,per GB (Storage / Month)
+AWS
+https://www.apptio.com/blog/essential-guide-aws-s3-pricing/

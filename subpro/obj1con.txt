@@ -1,0 +1,5 @@
+1.58
+storage
+(per GB per month)STANDARD STORAGE
+Google
+https://cloud.google.com/storage/

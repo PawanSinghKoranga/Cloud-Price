@@ -1,0 +1,5 @@
+0.298
+storage
+S3 Intelligent – Tiering – Optional asynchronous Archive Access tiers Archive Access Tier,per GB( Storage / Month)
+AWS
+https://www.apptio.com/blog/essential-guide-aws-s3-pricing/

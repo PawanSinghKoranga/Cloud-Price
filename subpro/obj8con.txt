@@ -1,0 +1,5 @@
+1.904
+storage
+S3 Standard - General purpose storage for any type of data, typically used for frequently accessed data(per GB per Month)
+AWS
+https://www.apptio.com/blog/essential-guide-aws-s3-pricing/

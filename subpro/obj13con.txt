@@ -1,0 +1,5 @@
+0.331
+storage
+S3 Glacier Instant Retrieval – For long-lived archive data accessed once a quarter with instant retrieval i ,per GB (Storage / Month)
+AWS
+https://www.apptio.com/blog/essential-guide-aws-s3-pricing/
